@@ -37,5 +37,5 @@
 ---
 
 ## 🔹 Contact
-- GitHub: *Add link here*
-- Email: *Add email here*
+- GitHub: *github.com/Zakir176*
+- Email: *zakirhusseinmotala76@gmail.com*
